@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://geingeesh.naku.dev/sitemap.xml
